@@ -1,3 +1,5 @@
+![travis-status](https://travis-ci.org/PGeffriaud/iprotec.svg?branch=master)
+
 # iprotec
 
 > A webapp to improve eprotec experience: better UI, better UX, better technology !
