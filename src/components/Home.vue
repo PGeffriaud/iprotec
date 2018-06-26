@@ -2,15 +2,14 @@
   <div class="homepage">
     <h1>Welcome to your improved eprotec experience !</h1>
     <h2>Navigate through the app</h2>
-    <ul>
-      <li>
-        <a href="https://vuejs.org">Events
-        </a>
-      </li>
-      <li>
-        <a href="https://forum.vuejs.org"> People</a>
-      </li>
-    </ul>
+      <v-btn color="primary" href="events">
+        <v-icon left>people</v-icon>
+        Events
+      </v-btn>
+       <v-btn color="primary" href="events">
+        <v-icon left>people</v-icon>
+        People
+      </v-btn>
     <h2>Additional links</h2>
     <ul>
       <li>
@@ -27,6 +26,9 @@
       </li>
       <li>
         <a href="https://vuetifyjs.com/en/getting-started/quick-start" target="_blank">Vuetify</a>
+      </li>
+      <li>
+        <a href="https://material.io/tools/icons/?style=baseline">Icons</a>
       </li>
     </ul>
   </div>
